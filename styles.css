@@ -125,6 +125,7 @@ h3{margin:0 0 10px; font-size:16px; letter-spacing:-0.01em;}
 
 .person{display:flex; gap:14px;}
 .avatar{width:44px;height:44px; border-radius:14px; display:flex; align-items:center; justify-content:center; font-weight:800; border:1px solid var(--hair); background: rgba(255,255,255,.04); flex:0 0 auto;}
+.label{margin:0 0 6px; font-size:11px; letter-spacing:.18em; text-transform:uppercase; color: rgba(238,242,246,.52);}
 .role{margin:0 0 8px; font-size:12px; letter-spacing:.16em; text-transform:uppercase; color: rgba(238,242,246,.68);}
 
 .bullets{margin:8px 0 0; padding-left:18px; color: rgba(238,242,246,.82);}
